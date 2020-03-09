@@ -54,56 +54,44 @@ After that, they took pictures of facial expressions of people from the Fori tri
     Surprise
 
 ### Dataset
-Interspeech Computational Paralinguistics Challenge (ComParE)
 
-- The INTERSPEECH 2020 Computational Paralinguistics ChallengE (ComParE) is an open Challenge dealing with states and traits of speakers as manifested in their speech signal’s properties. http://www.compare.openaudio.eu/data/
-The SEWA Database
+- **The INTERSPEECH 2020 Computational Paralinguistics ChallengE (ComParE)** is an open Challenge dealing with states and traits of speakers as manifested in their speech signal’s properties. http://www.compare.openaudio.eu/data/
 
-- A database of annotated audio and 2D visual dynamic behaviour (recorded by standard webcams used by the volunteers) has been collected within the SEWA project. https://db.sewaproject.eu/
-Cohn-Kanade (CK and CK+) database. 
+- **The SEWA Database**. A database of annotated audio and 2D visual dynamic behaviour (recorded by standard webcams used by the volunteers) has been collected within the SEWA project. https://db.sewaproject.eu/
 
-- Datasets for training affect recognition and for perception studies. RGB Video http://www.consortium.ri.cmu.edu/ckagree/
-AFEW
+- **Cohn-Kanade (CK and CK+) database**. Datasets for training affect recognition and for perception studies. RGB Video http://www.consortium.ri.cmu.edu/ckagree/
 
-- Acted Facial Expressions In The Wild is a dynamic temporal facial expressions data corpus consisting of close to real world environment extracted from movies. https://cs.anu.edu.au/few/AFEW.html
-RAVDESS
+- **AFEW** Acted Facial Expressions In The Wild is a dynamic temporal facial expressions data corpus consisting of close to real world environment extracted from movies. https://cs.anu.edu.au/few/AFEW.html
 
-- The Ryerson Audio-Visual Database of Emotional Speech and Song https://zenodo.org/record/1188976#.XlSgTChKhpg
-DISFA
+- **RAVDESS**. The Ryerson Audio-Visual Database of Emotional Speech and Song https://zenodo.org/record/1188976#.XlSgTChKhpg
 
-- Denver Intensity of Spontaneous Facial Action Database is a non-posed facial expression database for those who are interested in developing computer algorithms for automatic action unit detection and their intensities described by FACS. https://web.archive.org/web/20151024114056/http://www.engr.du.edu/mmahoor/DISFA.htm
-The MUG Facial Expression Database
+- **DISFA**. Denver Intensity of Spontaneous Facial Action Database is a non-posed facial expression database for those who are interested in developing computer algorithms for automatic action unit detection and their intensities described by FACS. https://web.archive.org/web/20151024114056/http://www.engr.du.edu/mmahoor/DISFA.htm
 
-- The MUG database was created by the Multimedia Understanding Group. It was created to overcome some limitations of the other similar databases that preexisted at that time, such as high resolution, uniform lighting, many subjects and many takes per subject. https://mug.ee.auth.gr/fed/ 
-RaFD
+- **The MUG Facial Expression Database**. The MUG database was created by the Multimedia Understanding Group. It was created to overcome some limitations of the other similar databases that preexisted at that time, such as high resolution, uniform lighting, many subjects and many takes per subject. https://mug.ee.auth.gr/fed/ 
 
-- The Radboud Faces Database is a set of pictures of 67 models (including Caucasian males and females, Caucasian children, both boys and girls, and Moroccan Dutch males) displaying 8 emotional expressions. http://www.socsci.ru.nl:8180/RaFD2/RaFD
-MMI 
+- **RFD**. The Radboud Faces Database is a set of pictures of 67 models (including Caucasian males and females, Caucasian children, both boys and girls, and Moroccan Dutch males) displaying 8 emotional expressions. http://www.socsci.ru.nl:8180/RaFD2/RaFD 
 
-- Facial Expression Database https://mmifacedb.eu/
-AffectNet
+- **MMI**. Facial Expression Database https://mmifacedb.eu/
 
-- Existing annotated databases of facial expressions in the wild are small and mostly cover discrete emotions (aka the categorical model). There are very limited annotated facial databases for affective computing in the continuous dimensional model (e.g., valence and arousal). http://mohammadmahoor.com/affectnet/
-FER+ 
+- **AffectNet**. Existing annotated databases of facial expressions in the wild are small and mostly cover discrete emotions (aka the categorical model). There are very limited annotated facial databases for affective computing in the continuous dimensional model (e.g., valence and arousal). http://mohammadmahoor.com/affectnet/
 
-- new label annotations for the Emotion FER dataset. (Paper) https://arxiv.org/abs/1608.01041 (Images) https://github.com/microsoft/FERPlus
-iBug
+- **FER+**. new label annotations for the Emotion FER dataset. (Paper) https://arxiv.org/abs/1608.01041 (Images) https://github.com/microsoft/FERPlus
 
-- These data are in accordance with the paper Deep Affect Prediction in-the-wild: Aff-Wild Database and Challenge, Deep Architectures, and Beyond.
+- **iBug**. This dataset is in accordance with the paper Deep Affect Prediction in-the-wild: Aff-Wild Database and Challenge, Deep Architectures, and Beyond. https://ibug.doc.ic.ac.uk/resources/300-W/
 
-Challenges in Representation Learning: Facial Expression Recognition Challenge (Kaggle) (Images) https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data 
+**Challenges in Representation Learning**: Facial Expression Recognition Challenge (Kaggle) (Images) https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data 
 
-DISFA+ The Extended Denver Intensity of Spontaneous Facial Action Database http://mohammadmahoor.com/disfa/
+**DISFA+** The Extended Denver Intensity of Spontaneous Facial Action Database http://mohammadmahoor.com/disfa/
 
-CK+ dataset for facial expression recognition (Kaggle) (Images).  https://www.kaggle.com/shawon10/ckplus 
+**CK+ dataset for facial expression recognition** (Kaggle) (Images).  https://www.kaggle.com/shawon10/ckplus 
 
-Facial Expression (Kaggle) (Images). https://www.kaggle.com/ahmedmoorsy/facial-expression 
+**Facial Expression** (Kaggle) (Images). https://www.kaggle.com/ahmedmoorsy/facial-expression 
 
-EMOTIC Dataset http://sunai.uoc.edu/emotic/
+**EMOTIC** Dataset http://sunai.uoc.edu/emotic/
 
-Facial Recognition Databases https://www.kairos.com/blog/60-facial-recognition-databases 
+**Facial Recognition Databases** https://www.kairos.com/blog/60-facial-recognition-databases 
 
-CVonline: Image Databases http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm 
+**CVonline**: Image Databases http://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm 
 
 ### Papers
 1. Facial Emotion Recognition Using Machine Learning https://drive.google.com/open?id=1AeaIHlm-1bhwxjvK_hCrsR2zp9JqKeIM 
